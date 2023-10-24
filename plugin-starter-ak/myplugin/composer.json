@@ -1,0 +1,15 @@
+{
+    "name": "akramul/myplugin",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akramul Hasan",
+            "email": "lighthouse8048@gmail.com"
+        }
+    ],
+    "require": {}
+}
